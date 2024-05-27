@@ -1,2 +1,6 @@
 BACK/env
 FRONT/seraiva/node_modules
+env
+.env
+__pycache__/
+__pycache__
